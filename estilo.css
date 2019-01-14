@@ -1,9 +1,10 @@
 body {
-	color : white;
+	border-radius: 10px;
 	position: static;
 	background-color: black;
 	padding: 0%;
 	margin: 0px;
+
 }
 
 .cuerpo {
